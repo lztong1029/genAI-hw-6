@@ -1,0 +1,17 @@
+# Virtual environment (do not push)
+.venv/
+venv/
+env/
+hw6-1/.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# IDE / OS
+.DS_Store
+.idea/
+*.swp
